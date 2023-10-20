@@ -5,7 +5,7 @@
 }
 
 .holder{
-	display: flex !important;
+	display: flex;
 	justify-content: center;
 	align-items: center;
 	
